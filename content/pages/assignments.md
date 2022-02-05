@@ -7,12 +7,57 @@ uid: 1490541d-d505-6a17-7c8c-47d6ee70cf7a
 Problem Sets (undergraduates only)
 ----------------------------------
 
-| PROBLEMS | SOLUTIONS |
-| --- | --- |
-| HW 1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol1)) |
-| HW 2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps2)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol2)) |
-| HW 3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps3)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol3)) |
-| HW 4 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps4))  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol4)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW 1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW 2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW 3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps3))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HW 4 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps4)) 
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol4))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Review Assignments (all students)
 ---------------------------------
@@ -35,8 +80,93 @@ After selecting an article, read it carefully, and think critically about what y
 *   What doors does this work open for future research?
 *   What doors does this work open for industrial development or usage of metals?
 
-| ASSIGNMENTS | GROUP A | GROUP B |
-| --- | --- | --- |
-| Review #1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra1)) |  {{< br >}}{{< br >}} Douin, J., et al. "[Direct Measurement of the Variation in the Energy of a Dislocation Locked in Specific Orientations.](http://dx.doi.org/10.1016/j.actamat.2008.09.027)" _Acta Materialia_ 57 (January 2009): 466-473. {{< br >}}{{< br >}} Norfleet, D. M., et al. "[Dislocation Structures and their Relationship to Strength in Deformed Nickel Microcrystals.](http://dx.doi.org/10.1016/j.actamat.2008.02.046)" _Acta Materialia_ 56 (August 2008): 2988-3001. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Wang, H., et al. "[The Transformation of Edge Dislocation Dipoles in Aluminum.](http://dx.doi.org/10.1016/j.actamat.2008.05.019)" _Acta Materialia_ 56 (October 2008): 4608-4620. {{< br >}}{{< br >}} Jin, Z.-H., et al. "[Interactions Between Non-Screw Lattice Dislocations and Coherent Twin Boundaries in Face-Centered Cubic Metals.](http://dx.doi.org/10.1016/j.actamat.2007.11.020)" _Acta Materialia_ 56 (March 2008): 1126-1135. {{< br >}}{{< br >}}  |
-| Review #2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra2)) |  {{< br >}}{{< br >}} Field, D. P., et al. "[The Role of Annealing Twins During Recrystallization of Cu.](http://dx.doi.org/10.1016/j.actamat.2007.03.021)" _Acta Materialia_ 55 (July 2007): 4233-4241. {{< br >}}{{< br >}} Zhang, Y. B., et al. "[Analysis of the Growth of Individual Grains During Recrystallization in Pure Nickel.](http://dx.doi.org/10.1016/j.actamat.2009.01.039)" _Acta Materialia_ 57 (May 2009): 2631-2639. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ivasishin, O. M., et al. "[Implementation of Exact Grain-Boundary Geometry into a 3-D Monte-Carlo (Potts) Model for Microstructure Evolution.](http://dx.doi.org/10.1016/j.actamat.2009.02.034)" _Acta Materialia_ 57 (May 2009): 2834-2844. {{< br >}}{{< br >}} Lim, A. T., et al. "[Low-angle Grain Boundary Migration in the Presence of Extrinsic Dislocations.](http://dx.doi.org/10.1016/j.actamat.2009.07.003)" _Acta Materialia_ 57 (October 2009): 5013-5022. {{< br >}}{{< br >}}  |
-| Review #3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra3)) |  {{< br >}}{{< br >}} Krug, Matthew E., et al. "[Core-shell Nanoscale Precipitates in Al-0.06 at.% Sc Microalloyed with Tb, Ho, Tm, or Lu.](http://dx.doi.org/10.1016/j.actamat.2009.08.074)" _Acta Materialia_ 58 (January 2010): 134-145. {{< br >}}{{< br >}} Adachi, Yoshitaka, et al. "[Computer-Aided Three-Dimensional Visualization of Twisted Cementite Lamellae in Eutectoid Steel.](http://dx.doi.org/10.1016/j.actamat.2008.08.017)" _Acta Materialia_ 56 (December 2008): 5995-6002. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Perez, M., et al. "[Implementation of Classical Nucleation and Growth Theories for Precipitation.](http://dx.doi.org/10.1016/j.actamat.2007.12.050)" _Acta Materialia_ 56 (May 2008): 2119-2132. {{< br >}}{{< br >}} Terentyev, D. A., et al. "[Strengthening due to Coherent Cr Precipitates in Fe-Cr Alloys: Atomistic Simulations and Theoretical Models.](http://dx.doi.org/10.1016/j.actamat.2008.03.004)" _Acta Materialia_ 56 (August 2008): 3229-3235. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+GROUP A
+{{< thclose >}}
+{{< thopen >}}
+GROUP B
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review #1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra1))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Douin, J., et al. "[Direct Measurement of the Variation in the Energy of a Dislocation Locked in Specific Orientations.](http://dx.doi.org/10.1016/j.actamat.2008.09.027)" _Acta Materialia_ 57 (January 2009): 466-473.
+
+Norfleet, D. M., et al. "[Dislocation Structures and their Relationship to Strength in Deformed Nickel Microcrystals.](http://dx.doi.org/10.1016/j.actamat.2008.02.046)" _Acta Materialia_ 56 (August 2008): 2988-3001.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wang, H., et al. "[The Transformation of Edge Dislocation Dipoles in Aluminum.](http://dx.doi.org/10.1016/j.actamat.2008.05.019)" _Acta Materialia_ 56 (October 2008): 4608-4620.
+
+Jin, Z.-H., et al. "[Interactions Between Non-Screw Lattice Dislocations and Coherent Twin Boundaries in Face-Centered Cubic Metals.](http://dx.doi.org/10.1016/j.actamat.2007.11.020)" _Acta Materialia_ 56 (March 2008): 1126-1135.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review #2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra2))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Field, D. P., et al. "[The Role of Annealing Twins During Recrystallization of Cu.](http://dx.doi.org/10.1016/j.actamat.2007.03.021)" _Acta Materialia_ 55 (July 2007): 4233-4241.
+
+Zhang, Y. B., et al. "[Analysis of the Growth of Individual Grains During Recrystallization in Pure Nickel.](http://dx.doi.org/10.1016/j.actamat.2009.01.039)" _Acta Materialia_ 57 (May 2009): 2631-2639.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ivasishin, O. M., et al. "[Implementation of Exact Grain-Boundary Geometry into a 3-D Monte-Carlo (Potts) Model for Microstructure Evolution.](http://dx.doi.org/10.1016/j.actamat.2009.02.034)" _Acta Materialia_ 57 (May 2009): 2834-2844.
+
+Lim, A. T., et al. "[Low-angle Grain Boundary Migration in the Presence of Extrinsic Dislocations.](http://dx.doi.org/10.1016/j.actamat.2009.07.003)" _Acta Materialia_ 57 (October 2009): 5013-5022.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Review #3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ra3))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Krug, Matthew E., et al. "[Core-shell Nanoscale Precipitates in Al-0.06 at.% Sc Microalloyed with Tb, Ho, Tm, or Lu.](http://dx.doi.org/10.1016/j.actamat.2009.08.074)" _Acta Materialia_ 58 (January 2010): 134-145.
+
+Adachi, Yoshitaka, et al. "[Computer-Aided Three-Dimensional Visualization of Twisted Cementite Lamellae in Eutectoid Steel.](http://dx.doi.org/10.1016/j.actamat.2008.08.017)" _Acta Materialia_ 56 (December 2008): 5995-6002.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perez, M., et al. "[Implementation of Classical Nucleation and Growth Theories for Precipitation.](http://dx.doi.org/10.1016/j.actamat.2007.12.050)" _Acta Materialia_ 56 (May 2008): 2119-2132.
+
+Terentyev, D. A., et al. "[Strengthening due to Coherent Cr Precipitates in Fe-Cr Alloys: Atomistic Simulations and Theoretical Models.](http://dx.doi.org/10.1016/j.actamat.2008.03.004)" _Acta Materialia_ 56 (August 2008): 3229-3235.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -18,7 +18,45 @@ Exam 3 ([PDF - 1.1MB]({{< baseurl >}}/resources/mit3_40jf09_quiz3_08))
 Fall 2009
 ---------
 
-| EXAMS | PROBLEMS | SOLUTIONS |
-| --- | --- | --- |
-| Exam 1 | ([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam1)) | ([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam1_sol)) |
-| Exam 2 | ([PDF - 2.4MB]({{< baseurl >}}/resources/mit3_40jf09_exam2)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_exam2_sol))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam1_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.4MB]({{< baseurl >}}/resources/mit3_40jf09_exam2))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_exam2_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
