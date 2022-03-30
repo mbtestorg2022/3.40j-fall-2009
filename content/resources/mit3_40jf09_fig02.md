@@ -5,6 +5,7 @@ description: Handout on dislocation motion accompanying a lecture on basic cryst
   projection.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-40j-physical-metallurgy-fall-2009/f77278cd37cf580990e3da5679d0c07b_MIT3_40JF09_fig02.pdf
 file_type: application/pdf
+parent_uid: 646fa2c6-5410-c2ff-34d5-df235ad10d7d
 resourcetype: Document
 title: Lecture 2 Handout
 uid: f77278cd-37cf-5809-90e3-da5679d0c07b
