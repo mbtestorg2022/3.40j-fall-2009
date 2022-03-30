@@ -25,7 +25,7 @@ SOLUTIONS
 HW 1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol1))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_sol1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ HW 1 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps1))
 HW 2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol2))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_sol2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ HW 2 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps2))
 HW 3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol3))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_sol3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ HW 3 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps3))
 HW 4 ([PDF]({{< baseurl >}}/resources/mit3_40jf09_ps4)) 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_sol4))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_sol4))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -290,7 +290,7 @@ Recrystallization; nucleation; grain growth; effects of temperature, strain, gra
 
 Fig. 1.1, 6.4, 6.8a, 6.10a in Humphreys
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_fig12))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig12))
 
 
 {{< tdclose >}}
@@ -411,7 +411,7 @@ Contributions to precipitate hardening; phase diagrams; kinetics; Ostwald ripeni
 {{< tdopen >}}
 
 
-Fig. 4.2c, 4.6 in Fuller, Christian B. "Temporal Evolution of the Microstructures of Al(Sc,Zr) Alloys and Their Influences on Mechanical Properties." Ph.D Thesis, Northwestern University, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://129.105.37.34/refbase/files/Fuller_Thesis.pdf))
+Fig. 4.2c, 4.6 in Fuller, Christian B. "Temporal Evolution of the Microstructures of Al(Sc,Zr) Alloys and Their Influences on Mechanical Properties." Ph.D Thesis, Northwestern University, 2003. ([PDF - 1.9MB](http://129.105.37.34/refbase/files/Fuller_Thesis.pdf))
 
 Fig. 2 ([View Online](http://products.asminternational.org/mgo/data/highRes.do?database=micro1&record=2008)), 6 ([View Online](http://products.asminternational.org/mgo/data/highRes.do?database=micro1&record=2011)) in "Plate Steels."  
 Fig. 16 in "Cast Irons."  
@@ -423,7 +423,7 @@ _Vol. 9, Metallography and Microstructures._ ASM Handbook, 9th ed. Materials Par
 
 Fig. 371, 1047, 2709 in _Vol. 7, Atlas of Microstructures for Industrial Alloys_. ASM Handbook, 8th ed. Metals Park, OH: ASM, 1972.
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_fig19))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_fig19))
 
 
 {{< tdclose >}}

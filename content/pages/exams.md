@@ -54,7 +54,7 @@ Exam 2
 ([PDF - 2.4MB]({{< baseurl >}}/resources/mit3_40jf09_exam2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_40jf09_exam2_sol))
+([PDF]({{< baseurl >}}/resources/mit3_40jf09_exam2_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
